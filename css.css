@@ -4,6 +4,10 @@
     padding: 25px;
 
 }
+section{
+    width: 1400px;
+    overflow: scroll;
+}
 .nav{
     display: flex;
     justify-content: space-between;
