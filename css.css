@@ -5,8 +5,8 @@
 
 }
 section{
-    width: 1400px;
-    overflow-x: scroll;
+    width: 1430px;
+    overflow-x: visible;
 }
 .nav{
     display: flex;
